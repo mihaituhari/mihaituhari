@@ -1,5 +1,7 @@
 # Mihai Tuhari
 
+[![divider.png](assets/images/divider.png)](https://mihai.tuhari.ro/)
+
 ### Engineering Manager @ Everli • Founder @ Rescue4x4
 
 Building products, systems and teams that create real-world impact.
@@ -7,8 +9,6 @@ Building products, systems and teams that create real-world impact.
 I'm an Engineering Manager and Software Engineer with **20+ years** of experience building web platforms, distributed systems and cross-functional engineering teams.
 
 I stay close to architecture and backend development while working with Product, Design and Data teams to deliver business-critical initiatives.
-
-![divider.png](assets/images/divider.png)
 
 ---
 
