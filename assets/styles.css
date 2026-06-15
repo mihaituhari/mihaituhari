@@ -290,7 +290,7 @@ h3 {
 }
 
 .copy p:first-child {
-    margin-top: 0;
+    margin-top: 55px;
 }
 
 .section-heading {
@@ -465,6 +465,10 @@ h3 {
 @media (max-width: 900px) {
     .section[id] {
         scroll-margin-top: 90px;
+    }
+
+    .copy p:first-child {
+        margin-top: 0;
     }
 
     .site-header {
