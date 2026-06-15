@@ -8,7 +8,7 @@ I'm an Engineering Manager and Software Engineer with **20+ years** of experienc
 
 I stay close to architecture and backend development while working with Product, Design and Data teams to deliver business-critical initiatives.
 
----
+[![divider](assets/images/do-not-click.png)](https://mihai.tuhari.ro/)
 
 ## What I do
 
@@ -65,6 +65,4 @@ https://github.com/mihaituhari
 ![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg)
 
 ![Github Stats Languages](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/languages.svg)
-
-[![divider](assets/images/do-not-click.png)](https://mihai.tuhari.ro/)
 
