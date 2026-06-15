@@ -1,16 +1,17 @@
 # Mihai Tuhari
 
+![divider.png](assets/images/divider.png)
+
 ### Engineering Manager @ Everli • Founder @ Rescue4x4
 
 Building products, systems and teams that create real-world impact.
 
-I'm an Engineering Manager and Software Engineer with 20+ years of experience building web platforms, distributed systems and cross-functional engineering teams.
+I'm an Engineering Manager and Software Engineer with **20+ years** of experience building web platforms, distributed systems and cross-functional engineering teams.
 
 I stay close to architecture and backend development while working with Product, Design and Data teams to deliver business-critical initiatives.
-
 ---
 
-## 🟪 What I do
+## What I do
 
 - **Lead** remote engineering teams across backend, frontend and mobile
 - **Build and scale** backend systems, APIs and search platforms
@@ -20,7 +21,7 @@ I stay close to architecture and backend development while working with Product,
 
 ---
 
-## 🟪 Founder Project
+## Founder Project
 
 ### 🆘 Rescue4x4
 
@@ -35,19 +36,19 @@ I also founded and serve as President of ASV4x4, the NGO behind the project.
 
 ---
 
-## 🟪 Core Expertise
+## Core Expertise
 
 **Engineering Leadership** • **Distributed Systems** • **Product Development** • **Remote Teams** • **System Architecture** • **Search Platforms**
 
 ---
 
-## 🟪 Core Stack
+## Core Stack
 
 PHP • Laravel • MySQL • Redis • RabbitMQ • Elasticsearch • JavaScript • TypeScript • APIs • CI/CD
 
 ---
 
-## 🟪 Links
+## Links
 
 🌐 Website  
 https://mihai.tuhari.ro
@@ -60,7 +61,7 @@ https://github.com/mihaituhari
 
 ---
 
-## 🟪 GitHub Stats
+## GitHub Stats
 
 ![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg)
 

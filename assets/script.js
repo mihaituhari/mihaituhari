@@ -76,7 +76,7 @@ function draw() {
       const distance = Math.sqrt(dx * dx + dy * dy);
 
       if (distance < 180) {
-        ctx.strokeStyle = `rgba(192, 38, 211, ${0.25 * (1 - distance / 180)})`;
+        ctx.strokeStyle = `rgba(255, 255, 255, ${0.25 * (1 - distance / 180)})`;
         ctx.beginPath();
         ctx.moveTo(p.x, p.y);
         ctx.lineTo(mouse.x, mouse.y);
