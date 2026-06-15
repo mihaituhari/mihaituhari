@@ -4,7 +4,7 @@
 
 Building products, systems and teams that create real-world impact.
 
-I'm an Engineering Manager and Software Engineer with **20+ years** of experience building web platforms, distributed systems and cross-functional engineering teams.
+I'm an **Engineering Manager** and **Software Engineer** with **20+ years** of experience building web platforms, distributed systems and cross-functional engineering teams.
 
 I stay close to architecture and backend development while working with Product, Design and Data teams to deliver business-critical initiatives.
 
