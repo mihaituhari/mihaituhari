@@ -131,6 +131,10 @@ a {
     font-size: 13px;
 }
 
+.eyebrow-break {
+    display: none;
+}
+
 h1, h2, h3 {
     margin: 0;
     line-height: 1.08;
@@ -147,7 +151,7 @@ h1 {
 }
 
 h2 {
-    font-size: clamp(34px, 4vw, 56px);
+    font-size: clamp(32px, 4vw, 56px);
     letter-spacing: -0.04em;
 }
 
@@ -478,22 +482,38 @@ h3 {
         grid-template-columns: 1fr;
     }
 
+    .split {
+        gap: 32px;
+    }
+
     .hero {
         padding-top: 52px;
     }
 
     .section {
-        padding: 35px 0;
+        padding: 30px 0;
     }
 
     .feature-grid {
         grid-template-columns: 1fr;
+    }
+
+    #about-grid {
+        padding-top: 0;
     }
 }
 
 @media (max-width: 560px) {
     .section {
         width: min(100% - 28px, 1160px);
+    }
+
+    .eyebrow-dot {
+        display: none;
+    }
+
+    .eyebrow-break {
+        display: inline;
     }
 
     h1 {
