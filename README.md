@@ -8,7 +8,7 @@ I'm an Engineering Manager and Software Engineer with **20+ years** of experienc
 
 I stay close to architecture and backend development while working with Product, Design and Data teams to deliver business-critical initiatives.
 
-[![divider](assets/images/do-not-click.png)](https://mihai.tuhari.ro/)
+[![divider](assets/images/do-not-click-compressed.png)](https://mihai.tuhari.ro/)
 
 ## What I do
 
