@@ -1,7 +1,5 @@
 # Mihai Tuhari
 
-[![divider.png](assets/images/divider.png)](https://mihai.tuhari.ro/)
-
 ### Engineering Manager @ Everli • Founder @ Rescue4x4
 
 Building products, systems and teams that create real-world impact.
@@ -67,3 +65,6 @@ https://github.com/mihaituhari
 ![Github Stats Overview](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/overview.svg)
 
 ![Github Stats Languages](https://raw.githubusercontent.com/mihaituhari/github-stats/master/generated/languages.svg)
+
+[![divider](assets/images/do-not-click.png)](https://mihai.tuhari.ro/)
+
