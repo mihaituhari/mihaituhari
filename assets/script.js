@@ -108,3 +108,44 @@ window.addEventListener("mouseleave", () => {
 
 resize();
 draw();
+
+// Email anti-scraping: the address is never stored in the HTML as plain text.
+// The user and domain are kept as separate Base64 data attributes and joined
+// at runtime, so bots that don't execute JavaScript can't harvest it.
+function setupProtectedEmail() {
+  const link = document.getElementById("email-link");
+  if (!link) return;
+
+  const decode = value => {
+    try {
+      return atob(value || "");
+    } catch (error) {
+      return "";
+    }
+  };
+
+  const buildAddress = () => {
+    const user = decode(link.dataset.user);
+    const domain = decode(link.dataset.domain);
+    return user && domain ? `${user}@${domain}` : "";
+  };
+
+  const address = buildAddress();
+  if (address) {
+    link.href = `mailto:${address}`;
+  }
+
+  // Fallback: assemble on demand in case the href wasn't set.
+  link.addEventListener("click", event => {
+    if (link.getAttribute("href") === "#") {
+      const fallback = buildAddress();
+      if (fallback) {
+        event.preventDefault();
+        window.location.href = `mailto:${fallback}`;
+      }
+    }
+  });
+}
+
+setupProtectedEmail();
+
