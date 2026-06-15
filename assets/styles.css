@@ -498,6 +498,10 @@ h3 {
         grid-template-columns: 1fr;
     }
 
+    .skills {
+        font-size: 13px;
+    }
+
     #about-grid {
         padding-top: 0;
     }
@@ -508,6 +512,14 @@ h3 {
         width: min(100% - 28px, 1160px);
     }
 
+    .buttons {
+        flex-direction: column;
+    }
+
+    .buttons .button {
+        width: 100%;
+    }
+
     .eyebrow-dot {
         display: none;
     }
@@ -516,12 +528,16 @@ h3 {
         display: inline;
     }
 
+    footer {
+        font-size: 15px;
+    }
+
     h1 {
         font-size: 44px;
     }
 
     .lead {
-        font-size: 19px;
+        font-size: 17px;
     }
 
     .hero-card {
