@@ -149,3 +149,26 @@ function setupProtectedEmail() {
 
 setupProtectedEmail();
 
+console.log(`
+   ███╗   ███╗██╗██╗  ██╗ █████╗ ██╗
+   ████╗ ████║██║██║  ██║██╔══██╗██║
+   ██╔████╔██║██║███████║███████║██║
+   ██║╚██╔╝██║██║██╔══██║██╔══██║██║
+   ██║ ╚═╝ ██║██║██║  ██║██║  ██║██║
+   ╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+
+╔══════════════════════════════════════╗
+║                                      ║
+║   Building products since 2003.      ║
+║   Still shipping code.               ║
+║                                      ║
+╚══════════════════════════════════════╝
+
+Thanks for taking a look 👋
+
+🧠 Engineering Manager @ Everli
+🆘 Founder @ Rescue4x4
+
+🔗 https://linkedin.com/in/mihaituhari
+🔗 https://github.com/mihaituhari
+`);
